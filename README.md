@@ -38,11 +38,11 @@ Created a one-page infographic using **Canva** covering:
 [View Files](./task-2-portfolio/)  
 
 ### Task 3 – Coding & Collaboration Platforms  
-- Solved *Arithmetic Operators* challenge on HackerRank (Python)  
+- Solved *Arithmetic Operators* challenge on HackerRank (Python)
 - Created a **5-question Digital Literacy Quiz** using Google Forms  
 
- [View Files](./task-3-platforms/)  
-🔗 [Digital Literacy Quiz Form](PASTE_YOUR_GOOGLE_FORM_LINK_HERE)  
+[View Files](./task-3-platforms/)  
+[Digital Literacy Quiz Form](PASTE_YOUR_GOOGLE_FORM_LINK_HERE)  
 
 ### Task 4 – Email Etiquette  
 - Drafted two professional emails:  
